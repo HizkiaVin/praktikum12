@@ -1,6 +1,7 @@
 # Latihan 1
 **txt = 'Hello World'**
-Hitung jumlah karakternya
+\
+•Hitung jumlah karakternya
 \
 • Ambil karakter terakhir
 \
